@@ -1,31 +1,12 @@
-# App-Updater
-This is my personal app updater for my desktop application. 
-
+# PrayMate - Mobile & Desktop App For Muslims To Manage Their Salah And Goals
+<br>
+<br>
+<br>
 <hr>
+<br>
+<br>
+<br>
 
-<h1>There is no need for you to be on this page.</h1>
+<h1> What is this page for if there is no code? </h1>
+<h3> Well, this repository just holds the versions for the desktop and mobile apps. There should be 2 separate websites with just the version. Every time the user opens the app, we send a request to our website to get the version from the website and check if it is the same, if it is then we don't do anything but if it's different then we tell the user that they can update the app. </h3>
 
-<hr>
-
-
-<h2>There is no need for you to be on this page.</h2>
-
-<hr>
-
-<h3>There is no need for you to be on this page.</h3>
-
-<hr>
-
-<h4>There is no need for you to be on this page.</h4>
-
-<hr>
-
-<h5>There is no need for you to be on this page.</h5>
-
-<hr>
-
-<h6>There is no need for you to be on this page.</h6>
-
-<img src='' alt='Nobody can load this image because it does not existttttttttttttt'>
-
-<a href=''>And this link because it doesn't existttt</a>
